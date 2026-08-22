@@ -1,0 +1,36 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2022-07-06T18:59:59.774Z",
+  "last_modified_by_me": "2022-07-06T18:59:59.774Z",
+  "content_last_modified": "2022-07-06T18:59:59.774Z",
+  "created": "2022-07-06T18:45:32.937Z",
+  "permissions": [
+    {
+      "id": "anyoneWithLink",
+      "type": "anyone",
+      "role": "reader",
+      "kind": "drive#permission",
+      "with_link": true,
+      "self_link": "https://www.googleapis.com/drive/v2/files/1uZ3YgAMdoBkypi7kfZSsCBrVwoX4f60k/permissions/anyoneWithLink",
+      "etag": "\"911cIqyilLgqT_KuQSND5EFJaQg\""
+    },
+    {
+      "id": "01373214898171893942",
+      "name": "David Remington",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AAcHTtf7QAXpetOwVn_iM2YKBaydo87RrAi3LddWPSNOQ0Vq4SA=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1uZ3YgAMdoBkypi7kfZSsCBrVwoX4f60k/permissions/01373214898171893942",
+      "email_address": "dlreming@uncg.edu",
+      "domain": "uncg.edu",
+      "etag": "\"VMnThxwCtVOzJLr7Qxf9L4uZvjc\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "QTLStudyTraitAnalysis_surv.csv",
+  "mime_type": "text/csv"
+}

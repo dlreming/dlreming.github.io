@@ -1,0 +1,36 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2002-10-30T15:55:32Z",
+  "last_modified_by_me": "2002-10-30T15:55:32Z",
+  "content_last_modified": "2002-10-30T15:55:32Z",
+  "created": "2022-07-06T20:36:55.552Z",
+  "permissions": [
+    {
+      "id": "anyoneWithLink",
+      "type": "anyone",
+      "role": "reader",
+      "kind": "drive#permission",
+      "with_link": true,
+      "self_link": "https://www.googleapis.com/drive/v2/files/17Xr25tVDiSbuhQN2TBEeCHs3EBmd28sm/permissions/anyoneWithLink",
+      "etag": "\"L_XZz8n9KhDRdHj5oa7ufXZfdDs\""
+    },
+    {
+      "id": "01373214898171893942",
+      "name": "David Remington",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AAcHTtf7QAXpetOwVn_iM2YKBaydo87RrAi3LddWPSNOQ0Vq4SA=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/17Xr25tVDiSbuhQN2TBEeCHs3EBmd28sm/permissions/01373214898171893942",
+      "email_address": "dlreming@uncg.edu",
+      "domain": "uncg.edu",
+      "etag": "\"j_TLZ5VYTJlQEIKJcHzlSoyxh5k\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "IAAAtOnlyConsRegionsAlt.phy",
+  "mime_type": "application/octet-stream"
+}
